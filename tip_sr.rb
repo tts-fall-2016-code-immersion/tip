@@ -1,6 +1,5 @@
 #ruby_tip_calculator_sr
 
-
 puts "How much is the bill?"
 bill = gets.chomp.to_i
 
